@@ -26,7 +26,7 @@ namespace CursoCSharp {
                 {"Operadores Unários - Fundamentos", OperadoresUnarios.Executar},
                 {"Operador Ternário - Fundamentos", OperadorTernario.Executar},
 
-                //Estruturas de  controle
+                // Estruturas de  controle
                 {"Estrutura If - Estruturas de controles", EstruturaIf.Executar},
                 {"Estrutura If/Else - Estruturas de controles", EstruturaIfElse.Executar},
                 {"Estrutura If/Else/If - Estruturas de controles", EstruturaIfElseIf.Executar},
@@ -34,6 +34,9 @@ namespace CursoCSharp {
                 {"Estrutura While - Estruturas de controles", EstruturaWhile.Executar},
                 {"Estrutura Do While - Estruturas de controles", EstruturaDoWhile.Executar},
                 {"Estrutura For - Estruturas de controles", EstruturaFor.Executar},
+                {"Estrutura ForEach - Estruturas de controles", EstruturaForEach.Executar},
+                {"Usando Break - Estruturas de controles", UsandoBreak.Executar},
+                {"Usando Continue - Estruturas de controles", UsandoContinue.Executar}
 
 
 
