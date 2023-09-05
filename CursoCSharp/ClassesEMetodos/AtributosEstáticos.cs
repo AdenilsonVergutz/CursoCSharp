@@ -14,7 +14,7 @@ namespace CursoCSharp.ClassesEMetodos
         {
             public string Nome;
             public double Preco;
-            public static double Desconto = 0.1;
+            public static double Desconto = 0.2;
 
             public Produto(string nome, double preco, double desconto)
             {

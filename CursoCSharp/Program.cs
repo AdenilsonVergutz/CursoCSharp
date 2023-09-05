@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using CursoCSharp.Fundamentos;
 using CursoCSharp.EstruturasDeControle;
 using CursoCSharp.ClassesEMetodos;
+using CursoCSharp.OO;
 
 namespace CursoCSharp {
     class Program {
@@ -46,7 +47,11 @@ namespace CursoCSharp {
                 {"Construtores - Classes e Métodos", Construtores.Executar},
                 {"Métodos com Retorno - Classes e Métodos", MetodosComRetorno.Executar},
                 {"Métodos estáticos - Classes e Métodos", MetodosComRetorno.Executar},
-                {"Atributos Estáticos - Classes e Métodos", AtributosEstáticos.Executar}
+                {"Atributos Estáticos - Classes e Métodos", AtributosEstáticos.Executar},
+
+
+                //OO
+                 {"Herança - OO", Heranca.Executar},
 
 
 
