@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.4.33110.190
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01 -  CursoCSharp", "CursoCSharp\01 -  CursoCSharp.csproj", "{24CE801C-1720-4EC9-AABA-E19AECC8A644}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoCSharp", "CursoCSharp\CursoCSharp.csproj", "{24CE801C-1720-4EC9-AABA-E19AECC8A644}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01.1 Encapsulamento", "Encapsulamento\01.1 Encapsulamento.csproj", "{13A11B6E-304A-4B39-99D0-F1C3C11535DC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Encapsulamento", "Encapsulamento\Encapsulamento.csproj", "{13A11B6E-304A-4B39-99D0-F1C3C11535DC}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CursoCSharpBalta", "CursoCSharpBalta", "{46E3FB2D-A177-4ACC-9261-D7820E393694}"
 EndProject
