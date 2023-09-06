@@ -100,6 +100,22 @@ namespace CursoCSharp.OO
             Console.WriteLine(carro2.Frear());
             Console.WriteLine(carro2.Frear());
             Console.WriteLine(carro2.Frear());
+
+            Console.WriteLine("Ferrari com tipo Carro...");
+            Carro carro3 = new Ferrari();  // Polimortismo
+            Console.WriteLine(carro3.Acelerar());
+            Console.WriteLine(carro3.Acelerar());
+            Console.WriteLine(carro3.Frear());
+            Console.WriteLine(carro3.Frear());
+            Console.WriteLine(carro3.Frear());
+
+            Console.WriteLine("Uno com tipo Carro...");
+            carro3 = new Uno(); // Polimorfismo
+            Console.WriteLine(carro3.Acelerar());
+            Console.WriteLine(carro3.Acelerar());
+            Console.WriteLine(carro3.Frear());
+            Console.WriteLine(carro3.Frear());
+            Console.WriteLine(carro3.Frear());
         }
     }
 }
