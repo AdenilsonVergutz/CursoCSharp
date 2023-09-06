@@ -8,7 +8,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Encapsulamento\Encapsulamento.csproj" />
+    <ProjectReference Include="..\Encapsulamento\01.1 Encapsulamento.csproj" />
   </ItemGroup>
 
 </Project>
