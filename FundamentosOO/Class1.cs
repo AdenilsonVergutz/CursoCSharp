@@ -2,7 +2,7 @@
 {
     public class Pagamento
     {
-        // Using
+        // Using parei aqui.
         //
         //
         //
