@@ -5,7 +5,7 @@ using System.Security.Cryptography.X509Certificates;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CursoCSharp.OO
+namespace CursoCSharpUdemy.OO
 {
 
     public class Carro

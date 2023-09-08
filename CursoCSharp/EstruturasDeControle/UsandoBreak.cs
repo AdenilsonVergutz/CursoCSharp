@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace CursoCSharp.EstruturasDeControle
+namespace CursoCSharpUdemy.EstruturasDeControle
 {
     internal class UsandoBreak
     {

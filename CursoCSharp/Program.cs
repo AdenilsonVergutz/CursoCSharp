@@ -1,12 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
 
-using CursoCSharp.Fundamentos;
-using CursoCSharp.EstruturasDeControle;
-using CursoCSharp.ClassesEMetodos;
-using CursoCSharp.OO;
+using CursoCSharpUdemy.Fundamentos;
+using CursoCSharpUdemy.EstruturasDeControle;
+using CursoCSharpUdemy.ClassesEMetodos;
+using CursoCSharpUdemy.OO;
 
-namespace CursoCSharp {
+namespace CursoCSharpUdemy {
     class Program {
         static void Main(string[] args) {
             var central = new CentralDeExercicios(new Dictionary<string, Action>() {
