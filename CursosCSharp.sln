@@ -11,7 +11,16 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CursoCSharpBalta", "CursoCS
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CursoCSharpUdemy", "CursoCSharpUdemy", "{50F9E527-33E2-4412-930D-578294AA0B50}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FundamentosOO", "CursoCSharpBalta\FundamentosOO\FundamentosOO.csproj", "{71DB4DD6-75CC-44D0-B237-2C32661B90C4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FundamentosOO", "CursoCSharpBalta\FundamentosOO\FundamentosOO.csproj", "{71DB4DD6-75CC-44D0-B237-2C32661B90C4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ContentContext", "ContentContext", "{2C762BFB-DC14-43FF-96AF-F1BCCEBFBF04}"
+	ProjectSection(SolutionItems) = preProject
+		Article.cs = Article.cs
+		Career.cs = Career.cs
+		Content.cs = Content.cs
+		Course.cs = Course.cs
+		Program.cs = Program.cs
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +48,7 @@ Global
 		{24CE801C-1720-4EC9-AABA-E19AECC8A644} = {50F9E527-33E2-4412-930D-578294AA0B50}
 		{13A11B6E-304A-4B39-99D0-F1C3C11535DC} = {50F9E527-33E2-4412-930D-578294AA0B50}
 		{71DB4DD6-75CC-44D0-B237-2C32661B90C4} = {46E3FB2D-A177-4ACC-9261-D7820E393694}
+		{2C762BFB-DC14-43FF-96AF-F1BCCEBFBF04} = {46E3FB2D-A177-4ACC-9261-D7820E393694}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A9426C43-FE6D-4C4C-B3E7-4058CC25E636}

@@ -2,10 +2,10 @@
 {
     public class Pagamento
     {
-        // Using parei aqui....
+        // generic parei aqui.......
         //
         //
-        //
+        //Herança e classes
         //
         //
         //
