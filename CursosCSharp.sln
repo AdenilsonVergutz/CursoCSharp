@@ -13,7 +13,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CursoCSharpUdemy", "CursoCS
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FundamentosOO", "CursoCSharpBalta\FundamentosOO\FundamentosOO.csproj", "{71DB4DD6-75CC-44D0-B237-2C32661B90C4}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ContentContext", "ContentContext", "{2C762BFB-DC14-43FF-96AF-F1BCCEBFBF04}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ContentContext", "CursoCSharpUdemy\ContentContext", "{2C762BFB-DC14-43FF-96AF-F1BCCEBFBF04}"
 	ProjectSection(SolutionItems) = preProject
 		Article.cs = Article.cs
 		Career.cs = Career.cs
