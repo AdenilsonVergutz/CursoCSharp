@@ -1,12 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
 
-using CursoCSharp.Fundamentos;
-using CursoCSharp.EstruturasDeControle;
-using CursoCSharp.ClassesEMetodos;
-using CursoCSharp.OO;
+using CursoCSharpUdemy.Fundamentos;
+using CursoCSharpUdemy.EstruturasDeControle;
+using CursoCSharpUdemy.ClassesEMetodos;
+using CursoCSharpUdemy.OO;
 
-namespace CursoCSharp {
+namespace CursoCSharpUdemy {
     class Program {
         static void Main(string[] args) {
             var central = new CentralDeExercicios(new Dictionary<string, Action>() {
@@ -29,7 +29,7 @@ namespace CursoCSharp {
                 {"Operador Ternário - Fundamentos", OperadorTernario.Executar},
 
 
-                // Estruturas de  controle
+                // Estruturas de controle.
                 {"Estrutura If - Estruturas de controles", EstruturaIf.Executar},
                 {"Estrutura If/Else - Estruturas de controles", EstruturaIfElse.Executar},
                 {"Estrutura If/Else/If - Estruturas de controles", EstruturaIfElseIf.Executar},
@@ -42,7 +42,7 @@ namespace CursoCSharp {
                 {"Usando Continue - Estruturas de controles", UsandoContinue.Executar},
 
 
-                //Classes e Métodos
+                //Classes e Métodos.
                 {"Membros - Classes e Métodos", Membros.Executar},
                 {"Construtores - Classes e Métodos", Construtores.Executar},
                 {"Métodos com Retorno - Classes e Métodos", MetodosComRetorno.Executar},

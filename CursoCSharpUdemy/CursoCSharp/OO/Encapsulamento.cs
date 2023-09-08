@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Encapsulamento;
 
-namespace CursoCSharp.OO
+namespace CursoCSharpUdemy.OO
 {
 
     public class FilhoNaoReconhecido : SubCelebridade

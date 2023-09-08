@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace CursoCSharp {
+namespace CursoCSharpUdemy {
     public class CentralDeExercicios {
         Dictionary<string, Action> Exercicios;
 
