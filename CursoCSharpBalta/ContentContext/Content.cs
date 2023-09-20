@@ -3,11 +3,11 @@
 namespace CursoCSharp.ContentContext
 {
 
-    public class Content
+    public abstract class Content
     {
         public Content()
         {
-            Id = Guid.NewGuid();
+            Id = Guid.NewGuid(); 
         }
 
 
