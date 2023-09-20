@@ -5,6 +5,7 @@ using CursoCSharpUdemy.Fundamentos;
 using CursoCSharpUdemy.EstruturasDeControle;
 using CursoCSharpUdemy.ClassesEMetodos;
 using CursoCSharpUdemy.OO;
+using CursoCSharp.ClassesEMetodos;
 
 namespace CursoCSharpUdemy {
     class Program {
@@ -41,6 +42,15 @@ namespace CursoCSharpUdemy {
                 {"Usando Break - Estruturas de controles", UsandoBreak.Executar},
                 {"Usando Continue - Estruturas de controles", UsandoContinue.Executar},
 
+                 //OO
+                {"Herança - OO", Heranca.Executar},
+                {"Construtor This - OO", ConstrutorThis.Executar},
+                {"Encapsulamento - OO", OO.Encapsulamento.Executar},
+                {"Polimorfismo - OO", Polimorfismo.Executar},
+                {"Abstract - OO", Abstract.Executar},
+                {"Interface - OO", Interface.Executar},
+                {"Sealed - OO", Sealed.Executar},
+
 
                 //Classes e Métodos.
                 {"Membros - Classes e Métodos", Membros.Executar},
@@ -48,16 +58,19 @@ namespace CursoCSharpUdemy {
                 {"Métodos com Retorno - Classes e Métodos", MetodosComRetorno.Executar},
                 {"Métodos estáticos - Classes e Métodos", MetodosComRetorno.Executar},
                 {"Atributos Estáticos - Classes e Métodos", AtributosEstáticos.Executar},
+                {"Desafio Atributo - Classes e Métodos", DesafioAtributo.Executar},
+                {"Params - Classes e Métodos", Params.Executar},
+                {"Parametros Nomeados - Classes e Métodos", ParametrosNomeados.Executar},
+                {"Get Set - Classes e Métodos", GetSet.Executar},
+                {"Props - Classes e Métodos", Props.Executar},
 
 
-                //OO
-                 {"Herança - OO", Heranca.Executar},
-                 {"Construtor This - OO", ConstrutorThis.Executar},
-                {"Encapsulamento - OO", OO.Encapsulamento.Executar},
-                {"Polimorfismo - OO", Polimorfismo.Executar},
-                {"Abstract - OO", Abstract.Executar},
-                {"Interface - OO", Interface.Executar},
-                {"Sealed - OO", Sealed.Executar},
+
+
+
+
+
+
 
 
 

@@ -7,13 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CursoCSharp", "CursoCSharpU
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Encapsulamento", "CursoCSharpUdemy\Encapsulamento\Encapsulamento.csproj", "{13A11B6E-304A-4B39-99D0-F1C3C11535DC}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CursoCSharpBalta", "CursoCSharpBalta", "{46E3FB2D-A177-4ACC-9261-D7820E393694}"
-EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CursoCSharpUdemy", "CursoCSharpUdemy", "{50F9E527-33E2-4412-930D-578294AA0B50}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FundamentosOO", "CursoCSharpBalta\FundamentosOO\FundamentosOO.csproj", "{71DB4DD6-75CC-44D0-B237-2C32661B90C4}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ContentContext", "CursoCSharpUdemy\ContentContext", "{2C762BFB-DC14-43FF-96AF-F1BCCEBFBF04}"
 	ProjectSection(SolutionItems) = preProject
 		Article.cs = Article.cs
 		Career.cs = Career.cs
