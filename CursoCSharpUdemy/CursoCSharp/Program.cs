@@ -77,6 +77,12 @@ namespace CursoCSharpUdemy {
 
                 {"Array - Coleções", CursoCSharp.Colecoes.Array.Executar},
                 {"List - Coleções", ColecoesList.Executar},
+                {"ArrayList - Coleções", ColecoesArrayList.Executar},
+                {"Set - Coleções", ColecoesSet.Executar},
+                {"Queue - Coleções", ColecoesQueue.Executar},
+
+
+
 
 
 
