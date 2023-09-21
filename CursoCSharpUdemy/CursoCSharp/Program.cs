@@ -6,6 +6,7 @@ using CursoCSharpUdemy.EstruturasDeControle;
 using CursoCSharpUdemy.ClassesEMetodos;
 using CursoCSharpUdemy.OO;
 using CursoCSharp.ClassesEMetodos;
+using CursoCSharp.Colecoes;
 
 namespace CursoCSharpUdemy {
     class Program {
@@ -63,6 +64,24 @@ namespace CursoCSharpUdemy {
                 {"Parametros Nomeados - Classes e Métodos", ParametrosNomeados.Executar},
                 {"Get Set - Classes e Métodos", GetSet.Executar},
                 {"Props - Classes e Métodos", Props.Executar},
+                {"Readonly - Classes e Métodos", Readonly.Executar},
+                {"Enum - Classes e Métodos", ExemploEnum.Executar},
+                {"Struct - Classes e Métodos", ExemploStruct.Executar},
+                {"Struct Vs Classe - Classes e Métodos", StructVsClasse.Executar},
+                {"Valor Vs Referencia - Classes e Métodos", ValorVsReferencia.Executar},
+                {"Parametros por Referência - Classes e Métodos", ParametrosPorReferencia.Executar},
+                {"Parametro com valor padrão - Classes e Métodos", ParametroPadrao.Executar},
+
+
+                //Coleções
+
+                {"Array - Coleções", CursoCSharp.Colecoes.Array.Executar},
+
+
+
+
+
+
 
 
 
