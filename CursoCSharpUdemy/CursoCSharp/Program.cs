@@ -7,6 +7,8 @@ using CursoCSharpUdemy.ClassesEMetodos;
 using CursoCSharpUdemy.OO;
 using CursoCSharp.ClassesEMetodos;
 using CursoCSharp.Colecoes;
+using CursoCSharp.MetodosEFuncoes;
+
 
 namespace CursoCSharpUdemy {
     class Program {
@@ -74,12 +76,23 @@ namespace CursoCSharpUdemy {
 
 
                 //Coleções
-
                 {"Array - Coleções", CursoCSharp.Colecoes.Array.Executar},
                 {"List - Coleções", ColecoesList.Executar},
                 {"ArrayList - Coleções", ColecoesArrayList.Executar},
                 {"Set - Coleções", ColecoesSet.Executar},
                 {"Queue - Coleções", ColecoesQueue.Executar},
+                {"Igualdade - Coleções", Igualdade.Executar},
+                {"Stack - Coleções", ColecoesStack.Executar},
+                {"Dictionary - Coleções", ColecoesDictionary.Executar},
+
+
+                // Métodos e Funções
+                {"Exemplo Lambda - Métodos e Funções", ExemploLambda.Executar},
+
+
+
+
+
 
 
 

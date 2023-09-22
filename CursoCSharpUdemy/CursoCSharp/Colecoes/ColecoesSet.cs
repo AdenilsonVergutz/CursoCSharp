@@ -20,7 +20,9 @@ namespace CursoCSharp.Colecoes
             {
                 new Produto("Camisa", 29.9),
                 new Produto("Kit 4 camisa", 99.9),
+                new Produto("Livro Harry Pottter", 38.5),
                 new Produto("Livro Harry Pottter", 38.5)
+
             };
 
             carrinho.UnionWith(combo);
